@@ -1,0 +1,147 @@
+
+   [
+    {
+      "product_id": "PRD1",
+      "name": "Rice (চাল)",
+      "price": "৳950",
+      "volume": "5 kg",
+      "rating": 4.5,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD2",
+      "name": "Potatoes (আলু)",
+      "price": "৳720",
+      "volume": "1 kg",
+      "rating": 4.8,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD3",
+      "name": "Cooking Oil (তেল)",
+      "price": "৳1100",
+      "volume": "2 liters",
+      "rating": 4.9,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD4",
+      "name": "Onions (পেঁয়াজ)",
+      "price": "৳800",
+      "volume": "1 kg",
+      "rating": 4.7,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD5",
+      "name": "Milk (দুধ)",
+      "price": "৳675",
+      "volume": "1 liter",
+      "rating": 4.4,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD6",
+      "name": "Eggs (ডিম)",
+      "price": "৳180",
+      "volume": "12 pieces",
+      "rating": 4.6,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD7",
+      "name": "Chicken (মুরগি)",
+      "price": "৳350",
+      "volume": "1 kg",
+      "rating": 4.4,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD8",
+      "name": "Fish (মাছ)",
+      "price": "৳450",
+      "volume": "500 grams",
+      "rating": 4.7,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD9",
+      "name": "Sugar (চিনি)",
+      "price": "৳80",
+      "volume": "1 kg",
+      "rating": 4.2,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD10",
+      "name": "Tea Leaves (চা পাতা)",
+      "price": "৳250",
+      "volume": "250 grams",
+      "rating": 4.3,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD11",
+      "name": "Bread (রুটি)",
+      "price": "৳50",
+      "volume": "400 grams",
+      "rating": 4.0,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD12",
+      "name": "Tomatoes (টমেটো)",
+      "price": "৳60",
+      "volume": "500 grams",
+      "rating": 4.6,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD13",
+      "name": "Chili Peppers (মরিচ)",
+      "price": "৳40",
+      "volume": "100 grams",
+      "rating": 4.4,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD14",
+      "name": "Toothpaste (টুথপেস্ট)",
+      "price": "৳80",
+      "volume": "100 grams",
+      "rating": 4.5,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD15",
+      "name": "Shampoo (শ্যাম্পু)",
+      "price": "৳250",
+      "volume": "250 ml",
+      "rating": 4.3,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD16",
+      "name": "Soap (সাবান)",
+      "price": "৳50",
+      "volume": "125 grams",
+      "rating": 4.2,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD17",
+      "name": "Detergent Powder (ডিটারজেন্ট পাউডার)",
+      "price": "৳150",
+      "volume": "1 kg",
+      "rating": 4.0,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    },
+    {
+      "product_id": "PRD18",
+      "name": "Toilet Paper (টয়লেট পেপার)",
+      "price": "৳60",
+      "volume": "4 rolls",
+      "rating": 4.5,
+      "img": "https://i.ibb.co/jfKwbyD/344019319-913261539788853-195379710439478665-n-2.jpg"
+    }
+  ]
